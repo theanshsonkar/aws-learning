@@ -21,3 +21,23 @@ Applying Cloud Concepts to Real Life Use Cases
 MODULE 1 CONCLUSION
 Assessment
 Module Summary.........
+
+
+Module 2 - Compute in the Cloud
+Resume
+MODULE 2 INTRODUCTION
+Introduction to Amazon EC2
+
+COMPUTE IN THE CLOUD
+Amazon EC2 Instance Types
+How to Provision AWS Resources
+Demo: Launching an Amazon EC2 Instance
+Amazon EC2 Pricing
+AUTO SCALING AND LOAD BALANCING
+Scaling Amazon EC2
+Directing Traffic with Elastic Load Balancing
+Messaging and Queuing
+
+MODULE 2 CONCLUSION
+Assessment
+Module Summary.........
