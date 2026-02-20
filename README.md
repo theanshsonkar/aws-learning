@@ -20,7 +20,7 @@ Applying Cloud Concepts to Real Life Use Cases
 
 MODULE 1 CONCLUSION
 Assessment
-Module Summary...........
+Module Summary............
 
 
 Module 2 - Compute in the Cloud
